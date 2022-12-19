@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![@vs84341's Holopin board](https://holopin.io/api/user/board?user=vs84341)](https://holopin.io/@vs84341)
+<!--[![@vs84341's Holopin board](https://holopin.io/api/user/board?user=vs84341)](https://holopin.io/@vs84341)
+-->
