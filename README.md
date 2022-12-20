@@ -11,8 +11,7 @@ Here are some ideas to get you started:
  - 👯 Open to collaborate on open source projects
  - 💬 Ask me about Automation
  - ⚡ Fun fact: I like climbing mountains🏔️
--->
+
 <!--[![@vs84341's Holopin board](https://holopin.io/api/user/board?user=vs84341)](https://holopin.io/@vs84341)
 -->
-<!--https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-<img src="{https://www.linkedin.com/in/vinay-kumar-singh-b37154148/}" />
+
