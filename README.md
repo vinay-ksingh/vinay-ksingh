@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 -->
 
- -🔭 I’m currently working as Automation Engineer
- -🌱 I’m currently learning Docker and Kubernates
-- 👯 Open to collaborate on open source projects
-- 💬 Ask me about Automation
-- 📫 How to reach me: https://www.linkedin.com/in/vinay-kumar-singh-b37154148/
-- ⚡ Fun fact: I like climbing mountains🏔️
+ - 🔭 I’m currently working as Automation Engineer
+ - 🌱 I’m currently learning Docker and Kubernates
+ - 👯 Open to collaborate on open source projects
+ - 💬 Ask me about Automation
+ - 📫 How to reach me: https://www.linkedin.com/in/vinay-kumar-singh-b37154148/
+ - ⚡ Fun fact: I like climbing mountains🏔️
 -->
 <!--[![@vs84341's Holopin board](https://holopin.io/api/user/board?user=vs84341)](https://holopin.io/@vs84341)
 -->
