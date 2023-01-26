@@ -1,5 +1,5 @@
-### Hi there 👋 I am Vinay                                                                             ![Profile Views](https://komarev.com/ghpvc/?username=vinay-ksingh)
- 
+### Hi there 👋 I am Vinay   
+  
 <!--**vs84341/vs84341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 <!--[![@vs84341's Holopin board](https://holopin.io/api/user/board?user=vs84341)](https://holopin.io/@vs84341)
 -->
 
+ ![Profile Views](https://komarev.com/ghpvc/?username=vinay-ksingh)
+ 
