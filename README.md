@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 <!--[![@vs84341's Holopin board](https://holopin.io/api/user/board?user=vs84341)](https://holopin.io/@vs84341)
 -->
 
+Connect me 
+[![Linkedin Badge](https://img.shields.io/badge/mederd-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/mederd/](https://www.linkedin.com/in/vinay-kumar-singh-b37154148/))
+
  ![Profile Views](https://komarev.com/ghpvc/?username=vinay-ksingh)
  
