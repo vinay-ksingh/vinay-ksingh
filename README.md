@@ -23,7 +23,7 @@
 <a href="https://dev.to/iamvinayksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="iamvinayksingh" height="30" width="40" /></a>
 <a href="https://twitter.com/iamvinayksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamvinayksingh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vinay-kumar-singh-b37154148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay-kumar-singh-b37154148/" height="30" width="40" /></a>
-<a href="https://instagram.com/vinay_kumar_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinay_kumar_singh" height="30" width="40" /></a>
+<a href="https://instagram.com/vinaykumar_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinay_kumar_singh" height="30" width="40" /></a>
 <a href="https://hashnode.com/@vinayksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vinayksingh" height="30" width="40" /></a>
 </p>
 
