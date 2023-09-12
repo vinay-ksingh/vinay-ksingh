@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Terraform and Kubernetes**
 
-- 👯 I’m looking to collaborate on **Cloud & Devops Project**
+- 👯 I’m looking to collaborate on **Cloud & DevOps Project**
 
 - 💬 Ask me about **Python, AWS and Linux**
 
